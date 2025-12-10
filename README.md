@@ -97,7 +97,7 @@ Menyimpan file ciphertext:
 
     python benchmark.py --files *.bin --keep-outputs
 
-## Penjelasan Hasil Output
+## Hasil Output
 
 ### `raw_results.csv`
 
@@ -128,4 +128,10 @@ Grafik batang untuk perbandingan *CPU time*.
 
 ## Lisensi
 
-Proyek ini dibuat untuk keperluan penelitian dan akademik.
+Program ini dibuat untuk keperluan UAS Mata Kuliah Kriptografi.
+
+## Developer
+
+Fahri Aminuddin Abdillah
+Faiq Pataya Zain
+Riskyta
