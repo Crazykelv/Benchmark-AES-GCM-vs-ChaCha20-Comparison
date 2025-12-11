@@ -135,3 +135,7 @@ Program ini dibuat untuk keperluan UAS Mata Kuliah Kriptografi.
 Fahri Aminuddin Abdillah
 Faiq Pataya Zain
 Riskyta
+
+## Link Dummy Files
+
+https://drive.google.com/drive/folders/18aDKQ4dgcmnuB9TSW2mfbwv3N3ls1Q0c
